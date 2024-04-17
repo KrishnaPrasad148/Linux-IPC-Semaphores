@@ -110,14 +110,14 @@ int main(int argc, char* argv[])
 #### $ ./sem.o
 
 
-![expt05-2](https://github.com/KrishnaPrasad148/Linux-IPC-Semaphores/assets/147332763/97778d50-ef0b-4079-ba53-bc25b094f175)
+![expt05](https://github.com/KrishnaPrasad148/Linux-IPC-Semaphores/assets/147332763/a69e22f7-dfc6-4bc3-8e17-ba1cf6ed0121)
 
 
 
 #### $ ipcs
 
 
-![expt05](https://github.com/KrishnaPrasad148/Linux-IPC-Semaphores/assets/147332763/4ee3b90d-6d36-49ea-9932-dc1f118f8158)
+![expt05-2](https://github.com/KrishnaPrasad148/Linux-IPC-Semaphores/assets/147332763/600a1516-905b-402a-8d32-97b86afae48e)
 
 
 
